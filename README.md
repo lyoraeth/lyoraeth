@@ -34,6 +34,8 @@ When there's no designer I pick up the file and finish the job.
 
 I tend to hold the whole project in my head, not just my slice of it. That means I catch things outside my immediate scope — conversion bottlenecks in forms, scroll-jacking, structural issues in incoming code. Lately that's been expanding into audits and product-side thinking, which is the direction I want to keep moving.
 
+**Also:** I run my own server — Gitea, Vaultwarden, personal mail (`me@lyoraeth.art`), Nginx, Cloudflare tunnel. Not a DevOps, just someone who got tired of depending on other people's infrastructure.
+
 ---
 
 ## Projects
