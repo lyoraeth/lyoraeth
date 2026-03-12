@@ -34,5 +34,4 @@ I don't just close tickets — I try to understand *why* we are building this fe
 * [aiogram-yoomoney-bot](https://github.com/saakivnzechad/aiogram-yoomoney-bot) - **Telegram Bot**: Automated sales with payment integration.
 
 ---
-[saakivnzechad.tech](https://saakivnzechad.tech) — My website & CV.
-[gitlab/saakivnzechad](https://gitlab.com/saakivnzechad) - My GitLab Profile
+[gitlab/lyoraeth](https://gitlab.com/lyoraeth) - My GitLab Profile
