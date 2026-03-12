@@ -47,4 +47,6 @@ Older work (different stack, different era):
 
 ---
 
-[gitlab/lyoraeth](https://gitlab.com/lyoraeth) · [t.me/lyoraeth_art](https://t.me/lyoraeth_art) · [linkedin/lyoraeth](https://www.linkedin.com/in/lyoraeth/)
+· Gitlab: [gitlab/lyoraeth](https://gitlab.com/lyoraeth)
+· Telegram: [t.me/lyoraeth_art](https://t.me/lyoraeth_art)
+· LinkedIn: [linkedin/lyoraeth](https://www.linkedin.com/in/lyoraeth/)
