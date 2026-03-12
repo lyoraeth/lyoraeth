@@ -1,37 +1,40 @@
-# Hi there! I'm Danil Klimov 👋
+# Hi, I'm Danil — Frontend Developer
 
-**Frontend Developer** with a focus on performance, maintainability, and business logic.
-Currently working at a web studio, dealing with legacy refactoring and high-load optimizations.
+Currently at **Dancecolor** web studio, de-facto lead on two commercial projects.  
+My focus: pixel-perfect UI, performance engineering, and making legacy code actually workable.
 
->  **Note on Activity:** Most of my commercial work happens in private **GitLab** repositories. My GitHub is for pet projects and experiments.
+> Most of my work lives in private GitLab repos — this GitHub is for personal projects and experiments.
+
+---
+
+## What I work on
+
+**Spliteks** — deep frontend modernization of a corporate industrial portal (Bitrix/legacy stack).  
+Tore apart a monolithic `main.js/main.css`, migrated critical modules to TypeScript, built a proper Gulp pipeline, replaced ScrollSmoother with Lenis. Cut CSS bundle from **1.2 MB → 143 KB**, pushed PageSpeed from **69 → 89**.
+
+**Apple Inside** — e-commerce feature work and maintenance.  
+Also rescued the repo itself: the project was locked to a former developer's personal account, so I mirrored it, set up a proper org (`dancecolor-sub`), configured access, and got things back under control.
+
+**CRM (NDA, solo freelance)** — built frontend from scratch: Vue 3 + Pinia + TanStack Query, full TypeScript coverage, REST API integration with Laravel.
 
 ---
 
-## What I Do
+## Stack
 
-I don't just close tickets — I try to understand *why* we are building this feature and how to make it efficient.
+**Daily:**  
+JavaScript / TypeScript · Vue 3 · Pinia · TanStack Query · SCSS / BEM · GSAP · Gulp · Vite · Git · Figma
 
-* **Commercial Experience:** Currently at **Dancecolor**. My daily routine involves modernizing legacy code (Native JS + Bitrix), setting up build processes (Gulp/Webpack), and optimizing frontend performance (recently cut CSS bundle size by 88% and implemented custom resource managers).
-* **Pet Projects:** I use my free time to build clean, typed architectures using **React** and **TypeScript**, experimenting with modern stacks.
-* **Background:** I have prior experience in UI/UX Design and System Administration. This helps me speak the same language with designers and backend developers.
-
-## Tech Stack
-
-**Core (Frontend):**
-* **Languages:** JavaScript (ES6+), TypeScript
-* **Frameworks:** React, Tailwind CSS
-* **Tools:** Gulp, Vite, Git, Figma (Advanced), BEM, SCSS
-
-**Background & Hobbies (I know the basics):**
-* **Backend:** Python, PHP, SQL
-* **3D & Design:** Blender, Photoshop, Illustrator (Good understanding of composition and asset preparation)
-* **Scripting:** Bash/Python automation
-
-## Featured Projects
-
-* [ecommerce-portfolio-project](https://github.com/saakivnzechad/ecommerce-portfolio-project) - **Risa Mnogo**: A functional e-commerce app (React, PHP, Tailwind).
-* [personal-portfolio-archived](https://github.com/saakivnzechad/personal-portfolio-archived) - **SPA Portfolio**: Showcasing custom routing, GSAP animations, and localization.
-* [aiogram-yoomoney-bot](https://github.com/saakivnzechad/aiogram-yoomoney-bot) - **Telegram Bot**: Automated sales with payment integration.
+**Background worth mentioning:**  
+Strong design eye — I can read a Figma file and know when something's off before writing a line of code.
 
 ---
-[gitlab/lyoraeth](https://gitlab.com/lyoraeth) - My GitLab Profile
+
+## Projects
+
+- [ecommerce-portfolio-project](https://github.com/lyoraeth/ecommerce-portfolio-project) — Risa Mnogo: e-commerce app (React, PHP, Tailwind)
+- [personal-portfolio-archived](https://github.com/lyoraeth/personal-portfolio-archived) — SPA portfolio: custom routing, GSAP animations, localization
+- [aiogram-yoomoney-bot](https://github.com/lyoraeth/aiogram-yoomoney-bot) — Telegram bot with YooMoney payment integration
+
+---
+
+[gitlab/lyoraeth](https://gitlab.com/lyoraeth) · [t.me/lyoraeth_art](https://t.me/lyoraeth_art)
