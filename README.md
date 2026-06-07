@@ -1,56 +1,44 @@
-# Hi, I'm Danil — Frontend Developer
+# Hi, I'm Danil
 
-Currently at **Dancecolor** web studio, de-facto lead on two commercial projects.  
-My focus: pixel-perfect implementation, performance engineering, and untangling legacy code into something maintainable.
+Frontend developer. I build interfaces and small web products end to end — markup, animation, performance, build setup.
 
-> Most of my work lives in private GitLab repos — this GitHub is for personal projects and experiments.
+**Open to frontend roles** (Saint Petersburg or remote) from July 2026.
 
----
+> Most of my commercial work lives in private GitLab, so this GitHub is mostly personal projects and experiments.
 
-## What I work on
+## What I've been working on
 
-**Spliteks** — deep frontend modernization of a corporate industrial portal (Bitrix/legacy stack).  
-Decomposed a monolithic `main.js/main.css`, migrated critical modules to TypeScript, built a proper Gulp pipeline, replaced ScrollSmoother with Lenis. Cut CSS bundle from **1.2 MB → 143 KB**, pushed PageSpeed from **69 → 89**.
+At **Dancecolor** (a web studio) I worked on a few commercial projects:
 
-**Apple Inside** — e-commerce feature work and maintenance.  
-Also inherited a mess: the project repo was locked to a former developer's personal account. Mirrored it, set up a proper org (`dancecolor-sub`), configured access and branch protection, rewrote the README, brought the codebase up to date.
+- **Spliteks** — industrial portal on Bitrix, legacy codebase. Rewrote the frontend: split the monolithic `main.js/main.css` into SCSS modules, moved critical parts to TypeScript, migrated the build to Gulp tuned for Bitrix. Cut CSS from 1.2 MB to 143 KB; PageSpeed 69 → 89 (desktop). Swapped ScrollSmoother for Lenis to kill ScrollTrigger race conditions; GSAP animations and pin-sections that survive zoom and resize.
+- **Apple Inside** — e-commerce on Bitrix. Built a small design system for rich-content product pages (atomic classes, tokens, docs) — assembling a new page dropped from ~12h to ~3h. Rebuilt the stories module on Swiper: lazy init, memory cleanup, fluid `clamp()` layout, stable height on iOS via the visualViewport API.
+- **Reckful** — e-commerce on a modern stack, in a small team. Catalog search, reviews with pagination, REST API integration.
 
-**CRM (NDA, solo freelance)** — built frontend architecture from scratch: Vue 3 + Pinia + TanStack Query, full TypeScript coverage, REST API integration (Laravel), Shadcn UI kit.
+Outside the studio I build **Telegram bots with payment integration** (aiogram, FSM, offer-agreement step, content delivery after purchase) for private clients, and built a CRM frontend from scratch on **Vue 3 + Pinia + TanStack Query** (Laravel REST API, Shadcn UI).
 
----
+## A bit about how I work
+
+I care about how the whole thing behaves — performance, different devices, how forms actually feel to use. I'm fine picking up incomplete or shifting requirements: I ask what's actually needed and get it done.
+
+I run my own server — Gitea, Vaultwarden, mail, Nginx, Cloudflare tunnel. Not a DevOps, just got tired of depending on other people's infrastructure. It's also where my clients' sites and bots live.
+
+I work in Figma properly, not only reading specs — components, variants, tokens. And I use AI as a tool day to day, keeping control over what ends up in the code.
 
 ## Stack
 
-**Daily:**  
-JavaScript / TypeScript · Vue 3 · Pinia · TanStack Query · SCSS / BEM · GSAP · Gulp · Vite · Git
+**Daily:** JavaScript / TypeScript · Vue 3 · Pinia · TanStack Query · SCSS / BEM · GSAP · Gulp · Vite · Git
 
-**Figma:**  
-Not just reading specs — I work in Figma properly: auto layout, variants, components, design tokens.  
-When there's no designer I pick up the file and finish the job.
+**Also:** React · Tailwind · REST API · Postman · Python (aiogram) · Figma
 
----
+## Selected projects
 
-## A bit more context
+- [**personal-portfolio-archived**](https://github.com/lyoraeth/personal-portfolio-archived) — client-side SPA with custom slide-like routing, GSAP, device-specific builds and localization. My first serious project; a month of nights, and the one that pushed me the most.
+- [**aiogram-yoomoney-bot**](https://github.com/lyoraeth/aiogram-yoomoney-bot) — Telegram bot for selling digital content with payment integration. The early, simple base of what I now build for clients.
+- [**Simple-Header**](https://github.com/lyoraeth/Simple-Header) — small React / TS / Framer Motion piece: a morphing menu button built as a state machine, noise-driven background motion, iOS fixes.
 
-I tend to hold the whole project in my head, not just my slice of it. That means I catch things outside my immediate scope — conversion bottlenecks in forms, scroll-jacking, structural issues in incoming code. Lately that's been expanding into audits and product-side thinking, which is the direction I want to keep moving.
+## Contact
 
-**Also:** I run my own server — Gitea, Vaultwarden, personal mail (`me@lyoraeth.art`), Nginx, Cloudflare tunnel. Not a DevOps, just someone who got tired of depending on other people's infrastructure.
-
----
-
-## Projects
-
-Something new is in progress — will be here soon.
-
-Older work (different stack, different era):
-- [ecommerce-portfolio-project](https://github.com/lyoraeth/ecommerce-portfolio-project) — Risa Mnogo: e-commerce app (React, PHP, Tailwind)
-- [personal-portfolio-archived](https://github.com/lyoraeth/personal-portfolio-archived) — SPA portfolio: custom routing, GSAP animations, localization
-- [aiogram-yoomoney-bot](https://github.com/lyoraeth/aiogram-yoomoney-bot) — Telegram bot with YooMoney payment integration
-
----
-
-## Contacts
-
-- Gitlab: [gitlab/lyoraeth](https://gitlab.com/lyoraeth)
-- Telegram: [t.me/lyoraeth_art](https://t.me/lyoraeth_art)
-- LinkedIn: [linkedin/lyoraeth](https://www.linkedin.com/in/lyoraeth/)
+- Telegram — [@lyoraeth_art](https://t.me/lyoraeth_art)
+- LinkedIn — [in/lyoraeth](https://www.linkedin.com/in/lyoraeth/)
+- GitLab — [gitlab.com/lyoraeth](https://gitlab.com/lyoraeth)
+- Email — lyoraeth@gmail.com
