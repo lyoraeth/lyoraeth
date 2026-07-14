@@ -24,7 +24,7 @@ Alongside these, a steady stream of smaller fixes across other projects.
 
 ## Outside the studio
 
-Built a **CRM frontend from scratch** on Vue 3 + Pinia + TanStack Query (Laravel REST API, Shadcn UI), and a few **Telegram bots with payment integration** (aiogram, FSM, content delivery after purchase) here and there.
+Built a **CRM frontend from scratch** on Vue 3 + Pinia + TanStack Table (Laravel REST API, Shadcn UI), and a few **Telegram bots with payment integration** (aiogram, FSM, content delivery after purchase) here and there.
 
 ---
 
