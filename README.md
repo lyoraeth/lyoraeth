@@ -42,7 +42,7 @@ I also write about frontend, UX and shipping — [lyoraeth.art/writing](https://
 
 ## Stack
 
-**Daily:** JavaScript / TypeScript · Vue 3 · Nuxt · Pinia · TanStack Query · SCSS / BEM · Tailwind · GSAP · Gulp · Vite · Git
+**Daily:** JavaScript / TypeScript · Vue 3 · Nuxt · Pinia · TanStack Table · SCSS / BEM · Tailwind · GSAP · Gulp · Vite · Git
 
 **Also:** React · Node · REST API · Postman · Python (aiogram) · Docker · GitHub Actions · Figma
 
